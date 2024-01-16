@@ -1,0 +1,15 @@
+﻿# Ignore .env files
+.env
+
+# Ignore build artifacts and output directories
+bin/
+obj/
+
+# Ignore Visual Studio files
+*.user
+*.suo
+*.sln.cache
+
+# Visual Studio
+.vs/
+.github/
